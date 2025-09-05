@@ -1,0 +1,18 @@
+[
+  {
+    "id": "bio_mana_backflow_inhibitor",
+    "copy-from": "bionic_general",
+    "type": "ITEM",
+    "subtypes": [ "BIONIC_ITEM" ],
+    "name": { "str": "Mana Backflow Inhibitor CBM" },
+    "description": "Adjusts the wearer's ley lines and bio-circuitry to prevent disruptions caused by bionic power; well suited for maintaining a mage's mana.",
+    "material": [ "steel", "plastic", "copper" ],
+    "weight": "350 g",
+    "volume": "250 ml",
+    "price": "15000 USD",
+    "price_postapoc": "6000 USD",
+    "symbol": ";",
+    "color": "light_cyan",
+    "difficulty": 5
+  }
+]

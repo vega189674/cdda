@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mana_backflow_inhibitor_cbm\n"
+"POT-Creation-Date: 2025-09-05 00:00+0000\n"
+"PO-Revision-Date: 2025-09-05 00:00+0000\n"
+"Last-Translator: TODO <you@example.com>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Mod title
+msgid "Mana Backflow Inhibitor CBM (Magiclysm)"
+msgstr "Mana Backflow Inhibitor CBM (Magiclysm)"
+
+# Mod description
+msgid "Adds a CBM that reverses the max mana penalty factor from bionic power, effectively nullifying it. Loot only; no recipes."
+msgstr "Adds a CBM that reverses the max mana penalty factor from bionic power, effectively nullifying it. Loot only; no recipes."
+
+# Bionic name
+msgid "Mana Backflow Inhibitor"
+msgstr "Mana Backflow Inhibitor"
+
+# Bionic description
+msgid "A controller that suppresses Magiclysm's max mana backflow penalty from bionic power. While installed it inverts the penalty factor, effectively canceling it."
+msgstr "A controller that suppresses Magiclysm's max mana backflow penalty from bionic power. While installed it inverts the penalty factor, effectively canceling it."
+
+# Item name
+msgid "Mana Backflow Inhibitor CBM"
+msgstr "Mana Backflow Inhibitor CBM"
+
+# Item description
+msgid "Adjusts the wearer's ley lines and bio-circuitry to prevent disruptions caused by bionic power; well suited for maintaining a mage's mana."
+msgstr "Adjusts the wearer's ley lines and bio-circuitry to prevent disruptions caused by bionic power; well suited for maintaining a mage's mana."

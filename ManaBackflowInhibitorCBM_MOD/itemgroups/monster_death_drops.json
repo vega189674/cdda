@@ -1,0 +1,9 @@
+[
+  {
+    "type": "item_group",
+    "id": "mon_feral_technomancer_death_drops",
+    "subtype": "collection",
+    "copy-from": "mon_feral_technomancer_death_drops",
+    "extend": { "entries": [ { "item": "bio_mana_backflow_inhibitor", "prob": 5 } ] }
+  }
+]

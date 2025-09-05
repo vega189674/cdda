@@ -1,0 +1,15 @@
+[
+  {
+    "type": "bionic",
+    "id": "bio_mana_backflow_inhibitor",
+    "name": { "str": "Mana Backflow Inhibitor" },
+    "description": "A controller that suppresses Magiclysm's max mana backflow penalty from bionic power. While installed it inverts the penalty factor, effectively canceling it.",
+    "dupes_allowed": false,
+    "enchantments": [
+      {
+        "condition": "ALWAYS",
+        "values": [ { "value": "BIONIC_MANA_PENALTY", "multiply": -1 } ]
+      }
+    ]
+  }
+]

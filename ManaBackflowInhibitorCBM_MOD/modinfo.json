@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "mana_backflow_inhibitor_cbm",
+    "name": "Mana Backflow Inhibitor CBM (Magiclysm)",
+    "authors": [ "you" ],
+    "description": "Adds a CBM that reverses the max mana penalty factor from bionic power, effectively nullifying it. Loot only; no recipes.",
+    "category": "content",
+    "dependencies": [ "dda", "magiclysm" ]
+  }
+]

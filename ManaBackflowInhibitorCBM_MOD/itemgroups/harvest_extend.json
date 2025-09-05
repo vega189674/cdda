@@ -1,0 +1,23 @@
+[
+  {
+    "type": "item_group",
+    "id": "Zomborg_CBM_harvest",
+    "subtype": "collection",
+    "copy-from": "Zomborg_CBM_harvest",
+    "extend": { "entries": [ { "item": "bio_mana_backflow_inhibitor", "prob": 10 } ] }
+  },
+  {
+    "type": "item_group",
+    "id": "feral_technomancer_CBM_harvest",
+    "subtype": "collection",
+    "copy-from": "feral_technomancer_CBM_harvest",
+    "extend": { "entries": [ { "item": "bio_mana_backflow_inhibitor", "prob": 8 } ] }
+  },
+  {
+    "type": "item_group",
+    "id": "feral_high_technomancer_CBM_harvest",
+    "subtype": "collection",
+    "copy-from": "feral_high_technomancer_CBM_harvest",
+    "extend": { "entries": [ { "item": "bio_mana_backflow_inhibitor", "prob": 10 } ] }
+  }
+]

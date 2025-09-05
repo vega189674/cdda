@@ -1,0 +1,8 @@
+[
+  { "type": "item_group", "id": "bionics", "subtype": "distribution", "extend": { "items": [ [ "bio_mana_backflow_inhibitor", 10 ] ] } },
+  { "type": "item_group", "id": "bionics_common", "subtype": "distribution", "extend": { "items": [ [ "bio_mana_backflow_inhibitor", 10 ] ] } },
+  { "type": "item_group", "id": "bionics_mil", "subtype": "distribution", "extend": { "items": [ [ "bio_mana_backflow_inhibitor", 10 ] ] } },
+  { "type": "item_group", "id": "bionics_sci", "subtype": "distribution", "extend": { "items": [ [ "bio_mana_backflow_inhibitor", 10 ] ] } },
+  { "type": "item_group", "id": "bionics_op", "subtype": "distribution", "extend": { "items": [ [ "bio_mana_backflow_inhibitor", 10 ] ] } }
+]
+

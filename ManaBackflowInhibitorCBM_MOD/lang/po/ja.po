@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mana_backflow_inhibitor_cbm\n"
+"POT-Creation-Date: 2025-09-05 00:00+0000\n"
+"PO-Revision-Date: 2025-09-05 00:00+0000\n"
+"Last-Translator: TODO <you@example.com>\n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# Mod title (optional)
+msgid "Mana Backflow Inhibitor CBM (Magiclysm)"
+msgstr "マナ逆流防止弁CBM（Magiclysm）"
+
+# Mod description
+msgid "Adds a CBM that reverses the max mana penalty factor from bionic power, effectively nullifying it. Loot only; no recipes."
+msgstr "Bionic powerによる最大マナ低下の係数を反転し、実質的に無効化するCBMを追加。入手は自然配置とモンスター由来のみ（レシピなし）。"
+
+# Bionic name (optional)
+msgid "Mana Backflow Inhibitor"
+msgstr "マナ逆流防止弁"
+
+# Bionic description
+msgid "A controller that suppresses Magiclysm's max mana backflow penalty from bionic power. While installed it inverts the penalty factor, effectively canceling it."
+msgstr "装着者のレイラインと生体回路を調整し、電力によって生じるレイラインの乱れを抑止するCBM。魔術師のマナ維持に適している。"
+
+# Item name (optional)
+msgid "Mana Backflow Inhibitor CBM"
+msgstr "マナ逆流防止弁CBM"
+
+# Item description
+msgid "Adjusts the wearer's ley lines and bio-circuitry to prevent disruptions caused by bionic power; well suited for maintaining a mage's mana."
+msgstr "装着者のレイラインと生体回路を調整し、電力によって生じるレイラインの乱れを抑止するCBM。魔術師のマナ維持に適している。"
