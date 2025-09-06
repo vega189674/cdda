@@ -25,12 +25,12 @@ msgstr "マナ逆流防止弁"
 
 # Bionic description
 msgid "A controller that suppresses Magiclysm's max mana backflow penalty from bionic power. While installed it inverts the penalty factor, effectively canceling it."
-msgstr "装着者のレイラインと生体回路を調整し、電力によって生じるレイラインの乱れを抑止するCBM。魔術師のマナ維持に適している。"
+msgstr "装着者のレイラインと生体回路を調整し、電力によって生じるレイラインの乱れを抑止します。"
 
 # Item name (optional)
 msgid "Mana Backflow Inhibitor CBM"
-msgstr "マナ逆流防止弁CBM"
+msgstr "CBM: マナ逆流防止弁"
 
 # Item description
 msgid "Adjusts the wearer's ley lines and bio-circuitry to prevent disruptions caused by bionic power; well suited for maintaining a mage's mana."
-msgstr "装着者のレイラインと生体回路を調整し、電力によって生じるレイラインの乱れを抑止するCBM。魔術師のマナ維持に適している。"
+msgstr "装着者のレイラインと生体回路を調整し、電力によって生じるレイラインの乱れを抑止します。"

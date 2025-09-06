@@ -1,9 +1,7 @@
 # Mana Backflow Inhibitor CBM (Magiclysm)
 
-目的・仕様・ファイル一式をまとめたハンドオフ用。
-
 ## 目的
-- Magiclysmの「bionic powerに応じた最大マナ低下（逆流ペナルティ）」をCBMで相殺（係数反転）。
+- Magiclysmの「bionic powerに応じた最大マナ低下（逆流ペナルティ）」相殺するCBMを追加する。
 - 入手は自然配置とモンスター由来（解体/ドロップ）のみ。レシピなし。
 - 同一CBMは1個まで（dupes_allowed:false）。
 
